@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623839540 source:d:\github\c_cpp\rendu_file\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1623839576 d:\github\c_cpp\rendu_file\file.h
+
+1623839610 source:d:\github\c_cpp\rendu_file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
